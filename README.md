@@ -1,3 +1,3 @@
 # learn-git
 
-Learning Git and GitHub
+Playground for learning Git and GitHub
